@@ -1,0 +1,4 @@
+1. Entity Framework Core used to connect to databases (MySQL)
+2. ASP.NET Core used to create Web API(.NET 8.0 long term support)
+3. React used to create a Web-Interface
+4. Swagger used to 
