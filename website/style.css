@@ -1,0 +1,74 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgb(219, 219, 219);
+}
+.container{
+    display:flex;
+    flex-flow: row wrap;
+    width: 100%;
+    overflow: hidden;
+}
+
+header{
+    background-color: white;
+    border-radius: 5px;
+    flex: 1 1 80%;
+    display: flex;
+    flex-flow: row wrap;
+    height: 50px;
+    margin-left: 10px;
+}
+header #search{
+    background-color: rgb(219, 219, 219);
+    height: 30px;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:5%;
+    border: none;
+    border-radius: 5px;
+}
+
+header button{
+    width: 10%;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5%;
+    height: 30px;
+    margin-top: 10px;
+}
+header button:hover{
+    cursor: pointer;
+}
+
+aside{
+    flex: 1 1 10%;
+    /* width: 30%; */
+    height:50vh;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+aside h1{
+    flex: 1 1 100%;
+    display: inline-block;
+    text-align: center;
+}
+aside button{
+    /* flex: 1 1 80%; */
+    width: 80%;
+    height: 40px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-color: rgb(183, 183, 183);
+    border-style: none;
+}
+aside button:hover{
+    cursor: pointer;
+} 

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oops</title>
+</head>
+<style>
+    button{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50px;
+        width: 200px;
+    }
+    button:hover{
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <h1 style="display: block; text-align: center;">We're sorry. There's nothing here yet</h1>
+    <button id="home">Get Back Home</button>
+</body>
+<script>
+    let home_button = document.getElementById('home');
+    home_button.addEventListener('click',()=>{
+        window.location.href = 'index.html';
+    })
+</script>
+</html>

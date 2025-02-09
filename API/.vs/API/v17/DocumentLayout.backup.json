@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|c:\\users\\manmade\\desktop\\library-app\\api\\api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2127BA5E-1EBE-4758-8338-5B635C959267}|API\\API.csproj|solutionrelative:api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA9wG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:17:43.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:14:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:59:16.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Context.cs",
+              "RelativeToolTip": "API\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:03:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Author.cs",
+              "RelativeToolTip": "API\\Models\\Author.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:01:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\Library-App\\API\\API\\Models\\Book.cs",
+              "RelativeToolTip": "API\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:59:36.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
