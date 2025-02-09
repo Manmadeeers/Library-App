@@ -11,14 +11,28 @@ body{
     overflow: hidden;
 }
 
+.left{
+    flex:1 1 10%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+}
+.right{
+    flex: 1 1 80%;
+    display: flex;
+    flex-flow: row wrap;
+    padding:0;
+}
+
 header{
     background-color: white;
     border-radius: 5px;
-    flex: 1 1 80%;
+    flex: 1 1 100%;
     display: flex;
     flex-flow: row wrap;
     height: 50px;
     margin-left: 10px;
+    margin-bottom: 0;
 }
 header #search{
     background-color: rgb(219, 219, 219);
@@ -72,3 +86,19 @@ aside button{
 aside button:hover{
     cursor: pointer;
 } 
+
+section{
+    flex:1 1 100%;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: -150px;
+    margin-left: 10px;
+}
+section h2{
+    display: inline-block;
+    text-align: left;
+    margin-top: 0;
+    margin-left: 10px;
+}
