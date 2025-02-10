@@ -7,7 +7,6 @@
         public string Surename { get; set; }
         public DateTime BirthDate { get; set; }
         public string CountryOfOrigin { get; set; }
-
         public ICollection<Book> Books { get; set; } = new List<Book>();  
     }
 }

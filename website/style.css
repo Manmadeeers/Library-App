@@ -101,4 +101,12 @@ section h2{
     text-align: left;
     margin-top: 0;
     margin-left: 10px;
+    margin-bottom: 0;
+}
+section .field{
+    flex: 1 1 100%;
+    display: flex;
+    flex-flow: row wrap;
+    border: 1px solid;
+    margin-top: -100px;
 }
